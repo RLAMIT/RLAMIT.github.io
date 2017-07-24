@@ -90,7 +90,9 @@ nav ul li, footer ul li {
 .container {
     width: 100%;
 }
-
+.navbar-default .navbar-header .navbar-brand >li > a:hover{
+    color: #B6B6B4;
+}
 .site-wrapper-inner {
     background-size: cover
     background: rgba(256, 256, 256, 0.25); /* color with an alpha transparency */
