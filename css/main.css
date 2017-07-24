@@ -198,10 +198,10 @@ section {
 }
 a.class1 {
     text-decoration: none;
-    color: #368BC1;
+    color: #000000;
 }
 a.class1:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #B6B6B4;
 }
 a.class2 {
