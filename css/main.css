@@ -84,6 +84,9 @@ nav ul li, footer ul li {
 .navbar-default .navbar-nav > li > a {
    color: #000000; 
     }
+.navbar-default .navbar-nav > li > a:hover {
+    color: #B6B6B4;
+}
 .container {
     width: 100%;
 }
