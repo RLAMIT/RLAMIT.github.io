@@ -218,7 +218,10 @@ a.class3 {
     text-decoration: underline;
     display: inline-block;
 }
-
+a:hover,
+a:focus {
+  color: #B6B6B4;
+}
 a.class3:hover {
     color: #368BC1;
 }
