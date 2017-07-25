@@ -254,14 +254,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2.FAQ {
-    margin-top:-10%;
-    padding-top:10%;       
-}
-@media (min-width: 768px){
-        h2.FAQ {
-    margin-top:-30%;
-    padding-top:30%;       
-    }
+    margin-top:-55px;
+    padding-top:55px;       
 }
 p {
     font-size: 1.5em;
