@@ -44,12 +44,6 @@ header.less-whitespace .header-content {
     padding: 0 50px;
     }
 }
-@media (min-width: 768px){
-        h2.FAQ {
-    margin-top:-30%;
-    padding-top:30%;       
-    }
-}
 header.less-whitespace .header-content {
     position: absolute;
     top: 40%;
@@ -262,6 +256,12 @@ h1 {
 h2.FAQ {
     margin-top:-10%;
     padding-top:10%;       
+}
+@media (min-width: 768px){
+        h2.FAQ {
+    margin-top:-30%;
+    padding-top:30%;       
+    }
 }
 p {
     font-size: 1.5em;
