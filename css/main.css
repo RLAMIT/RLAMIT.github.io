@@ -254,7 +254,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2.FAQ {
-    margin-top:40px 
+    margin-top:-10%;
+    padding-top:10%;       
 }
 p {
     font-size: 1.5em;
