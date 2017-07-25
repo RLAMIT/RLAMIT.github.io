@@ -44,10 +44,10 @@ header.less-whitespace .header-content {
     padding: 0 50px;
     }
 }
-@ media (min-width: 768px){
+@media (min-width: 768px){
         h2.FAQ {
-    margin-top:-20%;
-    padding-top:20%;       
+    margin-top:-30%;
+    padding-top:30%;       
     }
 }
 header.less-whitespace .header-content {
