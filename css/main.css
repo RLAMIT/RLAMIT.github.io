@@ -257,6 +257,10 @@ h2.FAQ {
     margin-top:-55px;
     padding-top:55px;       
 }
+h1.FAQ {
+    margin-top:-55px;
+    padding-top:55px;       
+}
 @media (min-width: 768px) {
     h2.FAQ {
     margin-top:-100px;
