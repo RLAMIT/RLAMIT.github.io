@@ -263,12 +263,18 @@ h1 {
 }
 h2.FAQ {
     margin-top:-55px;
-    padding-top:55px;       
+    padding-top:55px;  
+    text-indent: 50px;
 }
 h2.FAQ2 {
     margin-top:-55px;
     padding-top:55px;  
     color: #0020C2;
+}
+p.FAQ {
+    margin-top:-55px;
+    padding-top:55px;  
+    text-indent: 50px;
 }
 @media (min-width: 768px) {
     h2.FAQ {
