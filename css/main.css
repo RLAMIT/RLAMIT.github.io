@@ -265,11 +265,12 @@ h2.FAQ {
     margin-top:-55px;
     padding-top:55px;  
     padding-left: 50px;
+    font-size: 25px;
 }
 h2.FAQ2 {
     margin-top:-55px;
     padding-top:55px;  
-    color: #4E8975;
+    color: #B6B6B4;
 }
 @media (min-width: 768px) {
     h2.FAQ {
