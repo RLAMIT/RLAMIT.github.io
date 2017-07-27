@@ -291,6 +291,7 @@ p.QA {
     margin-top:-55px;
     padding-top:55px;  
     padding-left: 50px;
+    display: none;
 }
 .box_textshadow {
      text-shadow: 1px 1px 1px #ccc; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
