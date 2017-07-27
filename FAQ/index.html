@@ -14,6 +14,11 @@
 			<script src="/js/bootstrap.min.js"></script>
 			<script src="/js/npm.js"></script>
 			<script type="text/javascript">$(document).ready(function() {$('dropdown-toggle').dropdown()});</script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+		<script type="text/javascript">
+			function toggleDiv(divId) {
+				$("#"+divId).toggle();
+		</script>
 	</head>
 						      <body>
 						      <nav id="mainNav" class="navbar navbar-default navbar-fixed-top affix-top" 
@@ -60,9 +65,11 @@
 							      </header>
 <section style="padding: 10%; padding-top: 5%;">
 <div class="container"  style="border-bottom: 15px solid #B6B6B4";>
-	<h2 class="FAQ2"><a class="FAQ2" href="#General">General Questions</a></h2>
+	<h2 class="FAQ"><a href="javascript:toggleDiv('General');" style="background-color: #B6B6B4; padding: 5px 10px;">General Questions</a></h2>
+	<div id="General" style="background-color: #aaa; padding: 5px 10px;">
 	<h2 class="FAQ"><a class="FAQ" href="#Learning">Why the focus on learning?</a></h2>
 	<h2 class="FAQ"><a class="FAQ" href="#RefugeeLearners">What do you mean by "refugee learners?"</a></h2>	
+	</div>
 	<h2 class="FAQ2"><a class="FAQ2" href="#Application">Application Questions</a></h2>
 	<h2 class="FAQ"><a class="FAQ" href="#Eligible">Who is eligible to participate in the Refugee Learning Accelerator?</a></h2>
 	<h2 class="FAQ"><a class="FAQ" href="#Individual">Can I apply as an individual?</a></h2>
