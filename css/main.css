@@ -271,11 +271,6 @@ h2.FAQ2 {
     padding-top:55px;  
     color: #0020C2;
 }
-p.FAQ {
-    margin-top:-55px;
-    padding-top:55px;  
-    text-indent: 50px;
-}
 @media (min-width: 768px) {
     h2.FAQ {
     margin-top:-100px;
@@ -290,8 +285,11 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
 }
-.QA {
+p.QA {
     padding-bottom: 30px;
+    margin-top:-55px;
+    padding-top:55px;  
+    text-indent: 50px;
 }
 .box_textshadow {
      text-shadow: 1px 1px 1px #ccc; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
