@@ -219,7 +219,7 @@ a.FAQ:hover {
 }
 a.FAQ2 {
     text-decoration: none;
-    color: #B6B6B4;
+    color: #646D7E;
 }
 a.FAQ2:hover {
     text-decoration: none;
@@ -270,7 +270,7 @@ h2.FAQ {
 h2.FAQ2 {
     margin-top:-55px;
     padding-top:55px;  
-    color: #B6B6B4;
+    color: #646D7E;
 }
 @media (min-width: 768px) {
     h2.FAQ {
