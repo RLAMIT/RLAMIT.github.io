@@ -263,7 +263,8 @@ h1 {
 }
 h2.FAQ {
     margin-top:-55px;
-    padding-top:95px;  
+    padding-top:55px;  
+    padding-bottom: 25px;
     padding-left: 50px;
     font-size: 25px;
 }
