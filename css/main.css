@@ -11,7 +11,7 @@ body.landingpage {
     background-position: center 0px
 }
 body.FAQ { 
-  background-image: url("/Studying_FAQ_Background_edited.jpg"); 
+  background-image: url("/Studying_FAQ_Background.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body.about {
 }
 @media (min-width: 768px){
     header.FAQ {
-        background-image: url("/Studying_FAQ_Background_edited.jpg");
+        background-image: url("/Studying_FAQ_Background.jpg");
         color: #000000;
         background-size: cover;
         background-repeat: no-repeat;
