@@ -366,7 +366,7 @@ section.time-line .header-content .header-content-inner p {
 /* Three columns side by side */
 .column {
     float: left;
-    width: 33.3%;
+    width: 360px;
     height: 600px;
     margin-bottom: 16px;
     padding: 0 8px;
