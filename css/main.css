@@ -367,7 +367,7 @@ section.time-line .header-content .header-content-inner p {
 .column {
     float: left;
     width: 33.3%;
-    height: 750px;
+    height: 500px;
     margin-bottom: 16px;
     padding: 0 8px;
 }
@@ -386,9 +386,9 @@ section.time-line .header-content .header-content-inner p {
 }
 
 /* Some left and right padding inside the container */
-.container {
+/*.container {
     padding: 0 16px;
-}
+}*/
 
 /* Clear floats */
 .container::after, .row::after {
